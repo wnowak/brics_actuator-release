@@ -1,3 +1,26 @@
+## brics_actuator (jade) - 0.7.0-0
+
+The packages in the `brics_actuator` repository were released into the `jade` distro by running `/usr/bin/bloom-release --rosdistro jade --track jade brics_actuator --edit` on `Wed, 11 Oct 2017 10:31:18 -0000`
+
+The `brics_actuator` package was released.
+
+Version of package(s) in repository `brics_actuator`:
+
+- upstream repository: https://github.com/wnowak/brics_actuator.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.7.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.5.26`
+- catkin_pkg version: `0.3.5`
+- rosdep version: `0.11.5`
+- rosdistro version: `0.6.2`
+- vcstools version: `0.1.39`
+
+
 ## brics_actuator (indigo) - 0.7.0-0
 
 The packages in the `brics_actuator` repository were released into the `indigo` distro by running `/usr/bin/bloom-release brics_actuator --track indigo --rosdistro indigo` on `Fri, 16 Oct 2015 07:13:19 -0000`
