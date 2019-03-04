@@ -1,3 +1,26 @@
+## brics_actuator (melodic) - 0.7.0-0
+
+The packages in the `brics_actuator` repository were released into the `melodic` distro by running `/usr/bin/bloom-release brics_actuator --track melodic --rosdistro melodic --new-track` on `Mon, 04 Mar 2019 11:10:31 -0000`
+
+The `brics_actuator` package was released.
+
+Version of package(s) in repository `brics_actuator`:
+
+- upstream repository: https://github.com/wnowak/brics_actuator.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.7.0-0`
+
+Versions of tools used:
+
+- bloom version: `0.7.2`
+- catkin_pkg version: `0.4.9`
+- rosdep version: `0.15.1`
+- rosdistro version: `0.7.0`
+- vcstools version: `0.1.40`
+
+
 ## brics_actuator (kinetic) - 0.7.0-0
 
 The packages in the `brics_actuator` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic brics_actuator --edit` on `Wed, 11 Oct 2017 10:37:58 -0000`
